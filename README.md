@@ -1,2 +1,2 @@
-# Crypto_CTF_write-ups
+# CTF_write-ups
 crypto related writeups 
